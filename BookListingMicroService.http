@@ -1,0 +1,6 @@
+@BookListingMicroService_HostAddress = http://localhost:5224
+
+GET {{BookListingMicroService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
